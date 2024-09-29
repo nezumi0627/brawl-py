@@ -1,0 +1,346 @@
+{
+    "items": [
+        {
+            "battleTime": "20240928T150310.000Z",
+            "event": {
+                "id": 15000018,
+                "mode": "heist",
+                "map": "Kaboom Canyon"
+            },
+            "battle": {
+                "mode": "heist",
+                "type": "soloRanked",
+                "result": "victory",
+                "duration": 104,
+                "starPlayer": {
+                    "tag": "#8VQLLCRG",
+                    "name": "遇到韓國人就掛機法師",
+                    "brawler": {
+                        "id": 16000001,
+                        "name": "COLT",
+                        "power": 11,
+                        "trophies": 12
+                    }
+                },
+                "teams": [
+                    [
+                        {
+                            "tag": "#PQ0J8VJUY",
+                            "name": "ねずみにうむ",
+                            "brawler": {
+                                "id": 16000082,
+                                "name": "BERRY",
+                                "power": 11,
+                                "trophies": 12
+                            }
+                        },
+                        {
+                            "tag": "#8VQLLCRG",
+                            "name": "遇到韓國人就掛機法師",
+                            "brawler": {
+                                "id": 16000001,
+                                "name": "COLT",
+                                "power": 11,
+                                "trophies": 12
+                            }
+                        },
+                        {
+                            "tag": "#Y2V8QLQG9",
+                            "name": "高橋",
+                            "brawler": {
+                                "id": 16000018,
+                                "name": "DARRYL",
+                                "power": 11,
+                                "trophies": 11
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "tag": "#J9QGCGJUQ",
+                            "name": "ぶりぶりごぶりん",
+                            "brawler": {
+                                "id": 16000015,
+                                "name": "PIPER",
+                                "power": 11,
+                                "trophies": 12
+                            }
+                        },
+                        {
+                            "tag": "#28QG0C0Q0",
+                            "name": "혁빈",
+                            "brawler": {
+                                "id": 16000046,
+                                "name": "BELLE",
+                                "power": 11,
+                                "trophies": 12
+                            }
+                        },
+                        {
+                            "tag": "#QPUQL0Y9",
+                            "name": "どっとしゅりんぷす",
+                            "brawler": {
+                                "id": 16000035,
+                                "name": "GALE",
+                                "power": 11,
+                                "trophies": 12
+                            }
+                        }
+                    ]
+                ]
+            }
+        },
+        {
+            "battleTime": "20240928T150106.000Z",
+            "event": {
+                "id": 15000018,
+                "mode": "heist",
+                "map": "Kaboom Canyon"
+            },
+            "battle": {
+                "mode": "heist",
+                "type": "soloRanked",
+                "result": "victory",
+                "duration": 58,
+                "starPlayer": null,
+                "teams": [
+                    [
+                        {
+                            "tag": "#PQ0J8VJUY",
+                            "name": "ねずみにうむ",
+                            "brawler": {
+                                "id": 16000082,
+                                "name": "BERRY",
+                                "power": 11,
+                                "trophies": 12
+                            }
+                        },
+                        {
+                            "tag": "#8VQLLCRG",
+                            "name": "遇到韓國人就掛機法師",
+                            "brawler": {
+                                "id": 16000001,
+                                "name": "COLT",
+                                "power": 11,
+                                "trophies": 12
+                            }
+                        },
+                        {
+                            "tag": "#Y2V8QLQG9",
+                            "name": "高橋",
+                            "brawler": {
+                                "id": 16000018,
+                                "name": "DARRYL",
+                                "power": 11,
+                                "trophies": 11
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "tag": "#J9QGCGJUQ",
+                            "name": "ぶりぶりごぶりん",
+                            "brawler": {
+                                "id": 16000015,
+                                "name": "PIPER",
+                                "power": 11,
+                                "trophies": 12
+                            }
+                        },
+                        {
+                            "tag": "#28QG0C0Q0",
+                            "name": "혁빈",
+                            "brawler": {
+                                "id": 16000046,
+                                "name": "BELLE",
+                                "power": 11,
+                                "trophies": 12
+                            }
+                        },
+                        {
+                            "tag": "#QPUQL0Y9",
+                            "name": "どっとしゅりんぷす",
+                            "brawler": {
+                                "id": 16000035,
+                                "name": "GALE",
+                                "power": 11,
+                                "trophies": 12
+                            }
+                        }
+                    ]
+                ]
+            }
+        },
+        {
+            "battleTime": "20240928T145751.000Z",
+            "event": {
+                "id": 15000022,
+                "mode": "bounty",
+                "map": "Hideout"
+            },
+            "battle": {
+                "mode": "bounty",
+                "type": "soloRanked",
+                "result": "defeat",
+                "duration": 84,
+                "starPlayer": {
+                    "tag": "#G8GJVLLJQ",
+                    "name": "슉슈슉슉슉",
+                    "brawler": {
+                        "id": 16000061,
+                        "name": "GUS",
+                        "power": 11,
+                        "trophies": 12
+                    }
+                },
+                "teams": [
+                    [
+                        {
+                            "tag": "#VC2VPV2J0",
+                            "name": "スティッチ",
+                            "brawler": {
+                                "id": 16000005,
+                                "name": "SPIKE",
+                                "power": 11,
+                                "trophies": 12
+                            }
+                        },
+                        {
+                            "tag": "#G8GJVLLJQ",
+                            "name": "슉슈슉슉슉",
+                            "brawler": {
+                                "id": 16000061,
+                                "name": "GUS",
+                                "power": 11,
+                                "trophies": 12
+                            }
+                        },
+                        {
+                            "tag": "#GYP8Q8Y2P",
+                            "name": "@@@@",
+                            "brawler": {
+                                "id": 16000049,
+                                "name": "BUZZ",
+                                "power": 11,
+                                "trophies": 12
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "tag": "#PQ0J8VJUY",
+                            "name": "ねずみにうむ",
+                            "brawler": {
+                                "id": 16000029,
+                                "name": "BEA",
+                                "power": 11,
+                                "trophies": 12
+                            }
+                        },
+                        {
+                            "tag": "#GLRG2LGPV",
+                            "name": "たしまつ",
+                            "brawler": {
+                                "id": 16000003,
+                                "name": "BROCK",
+                                "power": 11,
+                                "trophies": 12
+                            }
+                        },
+                        {
+                            "tag": "#L29PUCGR0",
+                            "name": "浪人五世",
+                            "brawler": {
+                                "id": 16000043,
+                                "name": "EDGAR",
+                                "power": 11,
+                                "trophies": 12
+                            }
+                        }
+                    ]
+                ]
+            }
+        },
+        {
+            "battleTime": "20240928T145608.000Z",
+            "event": {
+                "id": 15000022,
+                "mode": "bounty",
+                "map": "Hideout"
+            },
+            "battle": {
+                "mode": "bounty",
+                "type": "soloRanked",
+                "result": "victory",
+                "duration": 70,
+                "starPlayer": null,
+                "teams": [
+                    [
+                        {
+                            "tag": "#VC2VPV2J0",
+                            "name": "スティッチ",
+                            "brawler": {
+                                "id": 16000005,
+                                "name": "SPIKE",
+                                "power": 11,
+                                "trophies": 12
+                            }
+                        },
+                        {
+                            "tag": "#G8GJVLLJQ",
+                            "name": "슉슈슉슉슉",
+                            "brawler": {
+                                "id": 16000061,
+                                "name": "GUS",
+                                "power": 11,
+                                "trophies": 12
+                            }
+                        },
+                        {
+                            "tag": "#GYP8Q8Y2P",
+                            "name": "@@@@",
+                            "brawler": {
+                                "id": 16000049,
+                                "name": "BUZZ",
+                                "power": 11,
+                                "trophies": 12
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "tag": "#PQ0J8VJUY",
+                            "name": "ねずみにうむ",
+                            "brawler": {
+                                "id": 16000029,
+                                "name": "BEA",
+                                "power": 11,
+                                "trophies": 12
+                            }
+                        },
+                        {
+                            "tag": "#GLRG2LGPV",
+                            "name": "たしまつ",
+                            "brawler": {
+                                "id": 16000003,
+                                "name": "BROCK",
+                                "power": 11,
+                                "trophies": 12
+                            }
+                        },
+                        {
+                            "tag": "#L29PUCGR0",
+                            "name": "浪人五世",
+                            "brawler": {
+                                "id": 16000043,
+                                "name": "EDGAR",
+                                "power": 11,
+                                "trophies": 12
+                            }
+                        }
+                    ]
+                ]
+            }
+        }
+    ]
+}

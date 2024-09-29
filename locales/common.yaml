@@ -1,0 +1,55 @@
+# locales\common.yaml
+victory:
+  ja: "勝利"
+  en: "victory"
+defeat:
+  ja: "敗北"
+  en: "defeat"
+draw:
+  ja: "引き分け"
+  en: "draw"
+battle:
+  ja: "バトル"
+  en: "battle"
+team:
+  ja: "チーム"
+  en: "team"
+player:
+  ja: "プレイヤー"
+  en: "player"
+trophy:
+  ja: "トロフィー"
+  en: "trophy"
+highestTrophy:
+  ja: "最高トロフィー"
+  en: "highest trophy"
+expLevel:
+  ja: "経験値"
+  en: "experience level"
+player_tag:
+  ja: "プレイヤータグ"
+  en: "Player Tag"
+player_name:
+  ja: "プレイヤー名"
+  en: "Player Name"
+trophies:
+  ja: "トロフィー"
+  en: "Trophies"
+highest_trophies:
+  ja: "最高トロフィー"
+  en: "Highest Trophies"
+club:
+  ja: "クラブ"
+  en: "Club"
+brawlers_info:
+  ja: "キャラクター情報"
+  en: "Brawlers Info"
+name:
+  ja: "名前"
+  en: "Name"
+power:
+  ja: "パワー"
+  en: "Power"
+rank:
+  ja: "ランク"
+  en: "Rank"

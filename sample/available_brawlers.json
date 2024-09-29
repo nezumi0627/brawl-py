@@ -1,0 +1,460 @@
+{
+    "available_brawlers": [
+        {
+            "id": 16000000,
+            "name": "SHELLY",
+            "starPowers": [
+                {
+                    "id": 23000076,
+                    "name": "SHELL SHOCK"
+                },
+                {
+                    "id": 23000135,
+                    "name": "BAND-AID"
+                }
+            ],
+            "gadgets": [
+                {
+                    "id": 23000255,
+                    "name": "FAST FORWARD"
+                },
+                {
+                    "id": 23000288,
+                    "name": "CLAY PIGEONS"
+                }
+            ]
+        },
+        {
+            "id": 16000001,
+            "name": "COLT",
+            "starPowers": [
+                {
+                    "id": 23000077,
+                    "name": "SLICK BOOTS"
+                },
+                {
+                    "id": 23000138,
+                    "name": "MAGNUM SPECIAL"
+                }
+            ],
+            "gadgets": [
+                {
+                    "id": 23000273,
+                    "name": "SPEEDLOADER"
+                },
+                {
+                    "id": 23000319,
+                    "name": "SILVER BULLET"
+                }
+            ]
+        },
+        {
+            "id": 16000002,
+            "name": "BULL",
+            "starPowers": [
+                {
+                    "id": 23000078,
+                    "name": "BERSERKER"
+                },
+                {
+                    "id": 23000137,
+                    "name": "TOUGH GUY"
+                }
+            ],
+            "gadgets": [
+                {
+                    "id": 23000272,
+                    "name": "T-BONE INJECTOR"
+                },
+                {
+                    "id": 23000310,
+                    "name": "STOMPER"
+                }
+            ]
+        },
+        {
+            "id": 16000003,
+            "name": "BROCK",
+            "starPowers": [
+                {
+                    "id": 23000079,
+                    "name": "MORE ROCKETS!"
+                },
+                {
+                    "id": 23000150,
+                    "name": "ROCKET NO. 4"
+                }
+            ],
+            "gadgets": [
+                {
+                    "id": 23000245,
+                    "name": "ROCKET LACES"
+                },
+                {
+                    "id": 23000316,
+                    "name": "ROCKET FUEL"
+                }
+            ]
+        },
+        {
+            "id": 16000004,
+            "name": "RICO",
+            "starPowers": [
+                {
+                    "id": 23000080,
+                    "name": "SUPER BOUNCY"
+                },
+                {
+                    "id": 23000156,
+                    "name": "ROBO RETREAT"
+                }
+            ],
+            "gadgets": [
+                {
+                    "id": 23000246,
+                    "name": "MULTIBALL LAUNCHER"
+                },
+                {
+                    "id": 23000409,
+                    "name": "BOUNCY CASTLE"
+                }
+            ]
+        },
+        {
+            "id": 16000005,
+            "name": "SPIKE",
+            "starPowers": [
+                {
+                    "id": 23000081,
+                    "name": "FERTILIZE"
+                },
+                {
+                    "id": 23000151,
+                    "name": "CURVEBALL"
+                }
+            ],
+            "gadgets": [
+                {
+                    "id": 23000247,
+                    "name": "POPPING PINCUSHION"
+                },
+                {
+                    "id": 23000406,
+                    "name": "LIFE PLANT"
+                }
+            ]
+        },
+        {
+            "id": 16000006,
+            "name": "BARLEY",
+            "starPowers": [
+                {
+                    "id": 23000082,
+                    "name": "MEDICAL USE"
+                },
+                {
+                    "id": 23000158,
+                    "name": "EXTRA NOXIOUS"
+                }
+            ],
+            "gadgets": [
+                {
+                    "id": 23000250,
+                    "name": "STICKY SYRUP MIXER"
+                },
+                {
+                    "id": 23000293,
+                    "name": "HERBAL TONIC"
+                }
+            ]
+        },
+        {
+            "id": 16000007,
+            "name": "JESSIE",
+            "starPowers": [
+                {
+                    "id": 23000083,
+                    "name": "ENERGIZE"
+                },
+                {
+                    "id": 23000149,
+                    "name": "SHOCKY"
+                }
+            ],
+            "gadgets": [
+                {
+                    "id": 23000251,
+                    "name": "SPARK PLUG"
+                },
+                {
+                    "id": 23000295,
+                    "name": "RECOIL SPRING"
+                }
+            ]
+        },
+        {
+            "id": 16000008,
+            "name": "NITA",
+            "starPowers": [
+                {
+                    "id": 23000084,
+                    "name": "BEAR WITH ME"
+                },
+                {
+                    "id": 23000136,
+                    "name": "HYPER BEAR"
+                }
+            ],
+            "gadgets": [
+                {
+                    "id": 23000249,
+                    "name": "BEAR PAWS"
+                },
+                {
+                    "id": 23000314,
+                    "name": "FAUX FUR"
+                }
+            ]
+        },
+        {
+            "id": 16000009,
+            "name": "DYNAMIKE",
+            "starPowers": [
+                {
+                    "id": 23000085,
+                    "name": "DYNA-JUMP"
+                },
+                {
+                    "id": 23000155,
+                    "name": "DEMOLITION"
+                }
+            ],
+            "gadgets": [
+                {
+                    "id": 23000258,
+                    "name": "FIDGET SPINNER"
+                },
+                {
+                    "id": 23000294,
+                    "name": "SATCHEL CHARGE"
+                }
+            ]
+        },
+        {
+            "id": 16000010,
+            "name": "EL PRIMO",
+            "starPowers": [
+                {
+                    "id": 23000086,
+                    "name": "EL FUEGO"
+                },
+                {
+                    "id": 23000140,
+                    "name": "METEOR RUSH"
+                }
+            ],
+            "gadgets": [
+                {
+                    "id": 23000264,
+                    "name": "SUPLEX SUPPLEMENT"
+                },
+                {
+                    "id": 23000292,
+                    "name": "ASTEROID BELT"
+                }
+            ]
+        },
+        {
+            "id": 16000011,
+            "name": "MORTIS",
+            "starPowers": [
+                {
+                    "id": 23000087,
+                    "name": "CREEPY HARVEST"
+                },
+                {
+                    "id": 23000154,
+                    "name": "COILED SNAKE"
+                }
+            ],
+            "gadgets": [
+                {
+                    "id": 23000265,
+                    "name": "COMBO SPINNER"
+                },
+                {
+                    "id": 23000290,
+                    "name": "SURVIVAL SHOVEL"
+                }
+            ]
+        },
+        {
+            "id": 16000012,
+            "name": "CROW",
+            "starPowers": [
+                {
+                    "id": 23000088,
+                    "name": "EXTRA TOXIC"
+                },
+                {
+                    "id": 23000143,
+                    "name": "CARRION CROW"
+                }
+            ],
+            "gadgets": [
+                {
+                    "id": 23000243,
+                    "name": "DEFENSE BOOSTER"
+                },
+                {
+                    "id": 23000286,
+                    "name": "SLOWING TOXIN"
+                }
+            ]
+        },
+        {
+            "id": 16000013,
+            "name": "POCO",
+            "starPowers": [
+                {
+                    "id": 23000089,
+                    "name": "DA CAPO!"
+                },
+                {
+                    "id": 23000144,
+                    "name": "SCREECHING SOLO"
+                }
+            ],
+            "gadgets": [
+                {
+                    "id": 23000267,
+                    "name": "TUNING FORK"
+                },
+                {
+                    "id": 23000350,
+                    "name": "PROTECTIVE TUNES"
+                }
+            ]
+        },
+        {
+            "id": 16000014,
+            "name": "BO",
+            "starPowers": [
+                {
+                    "id": 23000090,
+                    "name": "CIRCLING EAGLE"
+                },
+                {
+                    "id": 23000148,
+                    "name": "SNARE A BEAR"
+                }
+            ],
+            "gadgets": [
+                {
+                    "id": 23000263,
+                    "name": "SUPER TOTEM"
+                },
+                {
+                    "id": 23000289,
+                    "name": "TRIPWIRE"
+                }
+            ]
+        },
+        {
+            "id": 16000015,
+            "name": "PIPER",
+            "starPowers": [
+                {
+                    "id": 23000091,
+                    "name": "LONDON JETPACK"
+                },
+                {
+                    "id": 23000152,
+                    "name": "DEADLY ATTACK"
+                }
+            ],
+            "gadgets": [
+                {
+                    "id": 23000261,
+                    "name": "HOMING ROCKETS"
+                },
+                {
+                    "id": 23000297,
+                    "name": "CLOAKED FLASH"
+                }
+            ]
+        },
+        {
+            "id": 16000016,
+            "name": "PENNY",
+            "starPowers": [
+                {
+                    "id": 23000092,
+                    "name": "CANNON BALL"
+                },
+                {
+                    "id": 23000153,
+                    "name": "PILFERING"
+                }
+            ],
+            "gadgets": [
+                {
+                    "id": 23000248,
+                    "name": "CANNONBALL"
+                },
+                {
+                    "id": 23000288,
+                    "name": "CANNON FIRE"
+                }
+            ]
+        },
+        {
+            "id": 16000017,
+            "name": "FRANK",
+            "starPowers": [
+                {
+                    "id": 23000093,
+                    "name": "POWER GRAB"
+                },
+                {
+                    "id": 23000157,
+                    "name": "STUNNER"
+                }
+            ],
+            "gadgets": [
+                {
+                    "id": 23000252,
+                    "name": "SPARE PARTS"
+                },
+                {
+                    "id": 23000308,
+                    "name": "DYNAMIC WALL"
+                }
+            ]
+        },
+        {
+            "id": 16000018,
+            "name": "RICO",
+            "starPowers": [
+                {
+                    "id": 23000094,
+                    "name": "BUBBLE MACHINE"
+                },
+                {
+                    "id": 23000141,
+                    "name": "FIRE CRACKER"
+                }
+            ],
+            "gadgets": [
+                {
+                    "id": 23000259,
+                    "name": "BUBBLE TRAP"
+                },
+                {
+                    "id": 23000284,
+                    "name": "SPLIT BUBBLES"
+                }
+            ]
+        }
+    ]
+}

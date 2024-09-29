@@ -1,0 +1,37 @@
+# locales\modes.yaml
+Showdown:
+  ja: "ショーダウン"
+  en: "Showdown"
+Gem_Grab:
+  ja: "ジェムグラブ"
+  en: "Gem Grab"
+Brawl_Ball:
+  ja: "ブロールボール"
+  en: "Brawl Ball"
+Basket_Brawl:
+  ja: "バスケットボール"
+  en: "Basket Brawl"
+Siege:
+  ja: "シージ"
+  en: "Siege"
+Heist:
+  ja: "ハイスト"
+  en: "Heist"
+Bounty:
+  ja: "バウンティ"
+  en: "Bounty"
+Big_Game:
+  ja: "ビッグゲーム"
+  en: "Big Game"
+Knockout:
+  ja: "ノックアウト"
+  en: "Knockout"
+Wipeout:
+  ja: "ワイプアウト"
+  en: "Wipeout"
+Friendly_Battle:
+  ja: "フレンドリーバトル"
+  en: "Friendly Battle"
+Power_League:
+  ja: "パワーリーグ"
+  en: "Power League"

@@ -17,5 +17,5 @@
 1. `.env` ファイルを作成し、次のように API キーを追加します:
 
    ```plaintext
-   BRAWL_STARS_API_KEY=あなたのAPIキー
+   API_KEY=あなたのAPIキー
    ```

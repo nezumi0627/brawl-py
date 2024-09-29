@@ -1,9 +1,10 @@
 # nezu_brawl/brawlstars_api.py
 
 import os
+from typing import Any, Dict
+
 import requests
 from dotenv import find_dotenv, load_dotenv
-from typing import Dict, Any
 
 from nezu_brawl.url import (
     get_brawler_info_url,
